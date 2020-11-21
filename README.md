@@ -54,7 +54,7 @@ Copy this code and save it as a bookmark. Paste it in the URL section. To activa
 
 ```javascript
 javascript: (function () {
-	Game.LoadMod('https://aktanusa.github.io/CookieMonster/CookieMonster.js');
+	Game.LoadMod('https://bruceoite.github.io/CookieMonster/CookieMonster.js');
 }());
 ```
 
@@ -64,7 +64,7 @@ For beta, use the following instead:
 
 ```javascript
 javascript: (function () {
-	Game.LoadMod('https://aktanusa.github.io/CookieMonster/CookieMonsterBeta.js');
+	Game.LoadMod('https://bruceoite.github.io/CookieMonster/CookieMonsterBeta.js');
 }());
 ```
 
